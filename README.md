@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+<h2>TS Userlist Tutorial App</h2>
+
+Typecript Tutorial App With React Redux.
+
+![ts](https://user-images.githubusercontent.com/108582184/216049101-8ef02624-38fd-488e-aff7-6e441376cb20.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
